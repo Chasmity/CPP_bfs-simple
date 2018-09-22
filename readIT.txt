@@ -1,0 +1,11 @@
+program specified to find the array of minimal lengthes from <dot1> to <dot2> and outputs length from <find1> to <find2>
+
+input file
+edges-count dots-count
+...
+list-of-connections-size-of-edges--count
+...
+starting-dot ending-dot
+
+!example is input.txt!
+
